@@ -81,7 +81,7 @@
 .list-style-two li .icon,
 .theme_color,
 a{
-	color: #ff9f14;
+	color: #185f17;
 }
 
 /*Background Color*/
@@ -144,7 +144,7 @@ a.ui-button:active, .ui-button:active,
 .btn-style-six:hover,
 .btn-style-four:hover,
 .btn-style-two{
-	background-color: #ff9f14;
+	background-color: #185f17;
 }
 
 
@@ -207,17 +207,17 @@ a.ui-button:active, .ui-button:active,
 .btn-style-five:hover,
 .btn-style-four:hover,
 .btn-style-two{
-	border-color: #ff9f14;
+	border-color: #185f17;
 }
 
 .main-menu .navigation > li > ul > li > ul,
 .main-menu .navigation > li > ul,
 .main-header  .dropdown-menu{
-	border-top-color: #ff9f14;
+	border-top-color: #185f17;
 }
 
 .payment-box .payment-options li .radio-option label .small-text:before{
-	border-bottom-color: #ff9f14;
+	border-bottom-color: #185f17;
 }
 
 
@@ -225,7 +225,7 @@ a.ui-button:active, .ui-button:active,
 @media only screen and (max-width: 767px){
 	
 	.main-menu .navbar-header .navbar-toggle{
-		border-color:#ff9f14;
+		border-color:#185f17;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle,
@@ -244,7 +244,7 @@ a.ui-button:active, .ui-button:active,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
 	.header-style-two.inner-header .main-menu .navigation > li > a{
-		background-color:#ff9f14;
+		background-color:#185f17;
 	}
 	
 }
