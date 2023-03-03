@@ -341,7 +341,7 @@ ul,li{
 
 img{
 	display:inline-block;
-	max-width:100%;	
+	max-width:100%;
 }
 
 .preloader{ 
@@ -1840,6 +1840,7 @@ img{
 .service-block .image{
 	position: relative;
 	overflow: hidden;
+	height: 240px;
 }
 
 .service-block .image a{
@@ -2041,6 +2042,7 @@ img{
 
 .services-section.style-two .service-block .lower-content{
 	padding: 35px  30px 40px;
+	height: 320px;
 }
 
 /*** 
@@ -2066,6 +2068,12 @@ img{
 	text-align: center;
 	border: 1px solid #e1e1e1;
 	padding: 50px 50px 50px;
+}
+
+.service-block-two .inner-box img{
+	display: inline-block;
+    max-width: 100%;
+	max-height: 150px;
 }
 
 .service-block-two .inner-box:before,
