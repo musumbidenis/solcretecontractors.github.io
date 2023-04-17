@@ -596,8 +596,9 @@ img{
 }
 
 .main-header .info-box .icon-box span{
-	color:#1f2a30;
-	font-size:24px;
+	color:#185f17;
+	font-size:35px;
+	padding: 7px;
 }
 
 .main-header .info-box li{
